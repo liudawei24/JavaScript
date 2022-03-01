@@ -2,7 +2,7 @@
 
 ## 闭包
 
-#### 转至 阮一峰大佬的 [学习Javascript闭包（Closure）](https://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+本文转载自 阮一峰大佬的 [学习Javascript闭包（Closure）](https://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
 
 闭包（closure）是Javascript语言的一个难点，也是它的特色，很多高级应用都要依靠闭包实现。
 
