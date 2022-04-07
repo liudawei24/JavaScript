@@ -6,6 +6,7 @@
 1. [闭包](docs/issue-1.md)
 1. [两个栈实现一个队列](docs/issue-2.md)
 1. [数组](docs/issue-3.md)
+1. [对象](docs/issue-4.md)
 
 ## Git 贡献提交规范
 
